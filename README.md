@@ -12,9 +12,11 @@ git commit -m "added readme"
  4. Press   Repositories 
  5. Press  New 
  6. you need to link ur repository with the repository in github
- 7. copy https url and clone it on your local repository
+ 7. copy https url and clone it on your local repository.
  ```git
 git remote add origin > your github repository link
 git branch -M main
 git push -u origin main
+
+
 
