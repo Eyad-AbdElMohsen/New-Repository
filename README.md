@@ -1,5 +1,5 @@
 # How-to-repository
-## Hello.. lets learn how to do a `** local repository **`
+## Hello.. lets learn how to do a ` local repository `
  1. First , open ur folder that u want to do ur repository
  2. creat a repository 
 ```git
@@ -9,8 +9,8 @@ git add .
 git commit -m "added readme"
 
  3. you should make an account on [repository](https://github.com/)
- 4. Press  ** Repositories **
- 5. Press ** New **
+ 4. Press   Repositories 
+ 5. Press  New 
  6. you need to link ur repository with the repository in github
  7. copy https url and clone it on your local repository
  ```git
