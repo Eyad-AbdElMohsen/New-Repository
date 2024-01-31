@@ -8,7 +8,7 @@ echo "write your readme file here" > README.md
 git add .
 git commit -m "added readme"
 ```
- 3. you should make an account on [repository](https://github.com/)
+ 3. you should make an account on [GitHub](https://github.com/)
  4. Press   Repositories 
  5. Press  New 
  6. you need to link ur repository with the repository in github
