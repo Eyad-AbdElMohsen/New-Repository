@@ -7,7 +7,7 @@ git init
 echo "write your readme file here" > README.md
 git add .
 git commit -m "added readme"
-
+```
  3. you should make an account on [repository](https://github.com/)
  4. Press   Repositories 
  5. Press  New 
@@ -17,6 +17,6 @@ git commit -m "added readme"
 git remote add origin > your github repository link
 git branch -M main
 git push -u origin main
-
+```
 
 
